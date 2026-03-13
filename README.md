@@ -1,2 +1,2 @@
-# meu-reositorio
+# meu-repositorio
 meu
